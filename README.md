@@ -28,10 +28,6 @@ A more detailed understanding of their specific challenges and needs.
 + [Azure Speech SDK for Unity](https://aka.ms/csspeech/unitypackage)
   
 ### Need to purchase
-+ [FlatKit](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-toon-shading-and-water-143368)
-  
-  (FlatKit is only for the outline effects, feel free to purchase.)
-  
 + [3D WebView for Android (Web Browser) by Vuplex](https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-web-browser-137030)
   
   UnityOculusAndroidVRBrowser by IanPhilips [https://github.com/IanPhilips/UnityOculusAndroidVRBrowser] (This one should also work and it's free ;), which you might wanna give a try.)
